@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "24482734")
 
 API_HASH = os.environ.get("API_HASH", "5ccf6a58166cc047a7eba01c5dbc930c")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6868494625:AAGSIv0PkZr58LidF3eEwygCF1FPZFPFrVo") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6868494625:AAEdWwWWLwp_lP3MY7630AyVsVRPEa0qY4c") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "TN69Links") 
 
